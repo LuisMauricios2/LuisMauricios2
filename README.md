@@ -1,5 +1,3 @@
-Olá, eu sou Luís Maurício 👋
-
 <!--
 **LuisMauricios2/LuisMauricios2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
