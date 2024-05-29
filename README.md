@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 📫 Meu contato via whatssapp (21)988327572 ...
 - ⚡ Cursando Análise e desenvolvimento com a UVA e Fazendo curso de formação em carreira de análise de dados com a Alura ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisMauricios2&theme=dracula&show_icons=true)
+
 
 
